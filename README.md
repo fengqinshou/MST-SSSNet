@@ -1,2 +1,2 @@
 # MST-SSSNet
-Once the paper is accepted by JSTARS, the code will be made publicly available.
+Code is being organized and will be released once the organization is complete.
